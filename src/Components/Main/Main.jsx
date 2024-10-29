@@ -28,11 +28,11 @@ function Main() {
         <a href="https://www.disneyplus.com/pt-br/play/98964414-1cc5-4faf-9c8a-77bbe77e6eea" target="_blank" rel="noopener noreferrer">
           <img src="https://static.wixstatic.com/media/ff9915_60e0a51d8ade4ab2bbc1eaa1dfea6f07~mv2.jpg/v1/fill/w_568,h_842,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ff9915_60e0a51d8ade4ab2bbc1eaa1dfea6f07~mv2.jpg" alt="Invasão Secreta" />
         </a>
-        <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHILK6f2H3OqOVnqJxB7_Q1SWklq34tP20Ap7mmscvUVteMXvwmKsFuAfL-rGizvzdum0&usqp=CAU" target="_blank" rel="noopener noreferrer">
-          <img src="https://peliculastorrent.org/wp-content/uploads/2024/04/irVHcRIANEW62k7hwCWQKO5TsBF.jpg" alt="Buffy" />
+        <a href="https://www.disneyplus.com/pt-br/browse/entity-65cbcabe-16e8-48c3-a2e3-ede4c928de02" target="_blank" rel="noopener noreferrer">
+          <img src="https://vejasp.abril.com.br/wp-content/uploads/2016/11/poster-malevola.jpeg" alt="Malevola" />
         </a>
-        <a href="https://www.max.com/br/pt/movies/dune/1mDNltLXF5ML5LEL6If60ROyCze" target="_blank" rel="noopener noreferrer">
-          <img src="https://www.ucicinemas.com.br/Content/Upload/Filmes/Posters/11333/filme_11333.jpg" alt="Dune" />
+        <a href="https://www.disneyplus.com/pt-br/browse/entity-02a00d44-4607-4866-862f-9d260a8dbdca" target="_blank" rel="noopener noreferrer">
+          <img src="https://www.papodecinema.com.br/wp-content/uploads/2020/12/20201217-soul-papo-de-cinema-cartaz.jpg" alt="Soul" />
         </a>
       </figure>
     </main>
