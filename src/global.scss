@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Poppins", sans-serif; // Aplicando a fonte padrão
+}
+
+@media (max-width: 800px) {
+    body {
+        font-size: 20px;
+    }
+    
+    header nav ul {
+        align-items: center;
+        flex-direction: column;
+    }
+
+    header nav ul li {
+        margin-bottom: 10px;
+    }
+
+    header {
+        padding: 10px; // Opcional: adiciona espaçamento nas bordas
+    }
+}
