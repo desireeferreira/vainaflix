@@ -15,3 +15,9 @@ React: Biblioteca para construção da interface.
 CSS3: Estilização do layout.
 JavaScript: Lógica e manipulação de dados.
 API de Filmes: Consumo de API externa para obter dados dos filmes.
+
+🌟 Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+
+📄 Licença
+Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
